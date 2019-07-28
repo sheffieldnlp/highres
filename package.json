@@ -1,0 +1,31 @@
+{
+  "name": "summ_eval",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "buefy": "^0.7.0",
+    "bulma-slider": "^2.0.0",
+    "randomcolor": "^0.5.3",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vue-slide-bar": "^1.1.6",
+    "vue-slider-component": "^2.8.2",
+    "vue-timers": "^1.7.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.3",
+    "@vue/cli-plugin-eslint": "^3.0.3",
+    "@vue/cli-service": "^3.0.5",
+    "@vue/eslint-config-airbnb": "^3.0.4",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "123": {
+    "sentence": "U.S. is ..",
+    "precision": [
+      {
+        "formID": "123",
+        "value": 12
+      }
+    ],
+    "recall": [
+      {
+        "formID": "123",
+        "value": 12
+      }
+    ],
+    "fluency": [
+      {
+        "formID": "123",
+        "value": 12
+      }
+    ]
+  }
+}

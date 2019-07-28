@@ -1,0 +1,935 @@
+{
+  "sentences": [
+    {
+      "index": 0,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "The",
+          "originalText": "The",
+          "characterOffsetBegin": 0,
+          "characterOffsetEnd": 3
+        },
+        {
+          "index": 2,
+          "word": "30-year-old",
+          "originalText": "30-year-old",
+          "characterOffsetBegin": 4,
+          "characterOffsetEnd": 15,
+          "normalizedNER": "P30Y",
+          "timex": {
+            "tid": "t1",
+            "type": "DURATION",
+            "value": "P30Y"
+          }
+        },
+        {
+          "index": 3,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 16,
+          "characterOffsetEnd": 19
+        },
+        {
+          "index": 4,
+          "word": "not",
+          "originalText": "not",
+          "characterOffsetBegin": 20,
+          "characterOffsetEnd": 23
+        },
+        {
+          "index": 5,
+          "word": "recovered",
+          "originalText": "recovered",
+          "characterOffsetBegin": 24,
+          "characterOffsetEnd": 33
+        },
+        {
+          "index": 6,
+          "word": "from",
+          "originalText": "from",
+          "characterOffsetBegin": 34,
+          "characterOffsetEnd": 38
+        },
+        {
+          "index": 7,
+          "word": "a",
+          "originalText": "a",
+          "characterOffsetBegin": 39,
+          "characterOffsetEnd": 40
+        },
+        {
+          "index": 8,
+          "word": "recurrence",
+          "originalText": "recurrence",
+          "characterOffsetBegin": 41,
+          "characterOffsetEnd": 51
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 52,
+          "characterOffsetEnd": 54
+        },
+        {
+          "index": 10,
+          "word": "an",
+          "originalText": "an",
+          "characterOffsetBegin": 55,
+          "characterOffsetEnd": 57
+        },
+        {
+          "index": 11,
+          "word": "Achilles",
+          "originalText": "Achilles",
+          "characterOffsetBegin": 58,
+          "characterOffsetEnd": 66
+        },
+        {
+          "index": 12,
+          "word": "tendon",
+          "originalText": "tendon",
+          "characterOffsetBegin": 67,
+          "characterOffsetEnd": 73
+        },
+        {
+          "index": 13,
+          "word": "problem",
+          "originalText": "problem",
+          "characterOffsetBegin": 74,
+          "characterOffsetEnd": 81
+        },
+        {
+          "index": 14,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 82,
+          "characterOffsetEnd": 86
+        },
+        {
+          "index": 15,
+          "word": "forced",
+          "originalText": "forced",
+          "characterOffsetBegin": 87,
+          "characterOffsetEnd": 93
+        },
+        {
+          "index": 16,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 94,
+          "characterOffsetEnd": 97
+        },
+        {
+          "index": 17,
+          "word": "out",
+          "originalText": "out",
+          "characterOffsetBegin": 98,
+          "characterOffsetEnd": 101
+        },
+        {
+          "index": 18,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 102,
+          "characterOffsetEnd": 104
+        },
+        {
+          "index": 19,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 105,
+          "characterOffsetEnd": 108
+        },
+        {
+          "index": 3,
+          "word": "World",
+          "originalText": "World",
+          "characterOffsetBegin": 109,
+          "characterOffsetEnd": 114
+        },
+        {
+          "index": 4,
+          "word": "Indoor",
+          "originalText": "Indoor",
+          "characterOffsetBegin": 115,
+          "characterOffsetEnd": 121
+        },
+        {
+          "index": 5,
+          "word": "Championships",
+          "originalText": "Championships",
+          "characterOffsetBegin": 122,
+          "characterOffsetEnd": 135
+        },
+        {
+          "index": 23,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 136,
+          "characterOffsetEnd": 138
+        },
+        {
+          "index": 24,
+          "word": "March",
+          "originalText": "March",
+          "characterOffsetBegin": 139,
+          "characterOffsetEnd": 144,
+          "normalizedNER": "XXXX-03",
+          "timex": {
+            "tid": "t2",
+            "type": "DATE",
+            "value": "XXXX-03"
+          }
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 144,
+          "characterOffsetEnd": 145
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "She",
+          "originalText": "She",
+          "characterOffsetBegin": 146,
+          "characterOffsetEnd": 149
+        },
+        {
+          "index": 2,
+          "word": "was",
+          "originalText": "was",
+          "characterOffsetBegin": 150,
+          "characterOffsetEnd": 153
+        },
+        {
+          "index": 3,
+          "word": "due",
+          "originalText": "due",
+          "characterOffsetBegin": 154,
+          "characterOffsetEnd": 157
+        },
+        {
+          "index": 4,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 158,
+          "characterOffsetEnd": 160
+        },
+        {
+          "index": 5,
+          "word": "go",
+          "originalText": "go",
+          "characterOffsetBegin": 161,
+          "characterOffsetEnd": 163
+        },
+        {
+          "index": 6,
+          "word": "up",
+          "originalText": "up",
+          "characterOffsetBegin": 164,
+          "characterOffsetEnd": 166
+        },
+        {
+          "index": 7,
+          "word": "against",
+          "originalText": "against",
+          "characterOffsetBegin": 167,
+          "characterOffsetEnd": 174
+        },
+        {
+          "index": 8,
+          "word": "fellow",
+          "originalText": "fellow",
+          "characterOffsetBegin": 175,
+          "characterOffsetEnd": 181
+        },
+        {
+          "index": 9,
+          "word": "Britons",
+          "originalText": "Britons",
+          "characterOffsetBegin": 182,
+          "characterOffsetEnd": 189
+        },
+        {
+          "index": 3,
+          "word": "Katarina",
+          "originalText": "Katarina",
+          "characterOffsetBegin": 190,
+          "characterOffsetEnd": 198
+        },
+        {
+          "index": 4,
+          "word": "Johnson-Thompson",
+          "originalText": "Johnson-Thompson",
+          "characterOffsetBegin": 199,
+          "characterOffsetEnd": 215
+        },
+        {
+          "index": 12,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 216,
+          "characterOffsetEnd": 219
+        },
+        {
+          "index": 13,
+          "word": "Morgan",
+          "originalText": "Morgan",
+          "characterOffsetBegin": 220,
+          "characterOffsetEnd": 226
+        },
+        {
+          "index": 14,
+          "word": "Lake",
+          "originalText": "Lake",
+          "characterOffsetBegin": 227,
+          "characterOffsetEnd": 231
+        },
+        {
+          "index": 15,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 231,
+          "characterOffsetEnd": 232
+        },
+        {
+          "index": 16,
+          "word": "who",
+          "originalText": "who",
+          "characterOffsetBegin": 233,
+          "characterOffsetEnd": 236
+        },
+        {
+          "index": 17,
+          "word": "are",
+          "originalText": "are",
+          "characterOffsetBegin": 237,
+          "characterOffsetEnd": 240
+        },
+        {
+          "index": 18,
+          "word": "looking",
+          "originalText": "looking",
+          "characterOffsetBegin": 241,
+          "characterOffsetEnd": 248
+        },
+        {
+          "index": 19,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 249,
+          "characterOffsetEnd": 251
+        },
+        {
+          "index": 20,
+          "word": "achieve",
+          "originalText": "achieve",
+          "characterOffsetBegin": 252,
+          "characterOffsetEnd": 259
+        },
+        {
+          "index": 21,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 260,
+          "characterOffsetEnd": 263
+        },
+        {
+          "index": 22,
+          "word": "Olympic",
+          "originalText": "Olympic",
+          "characterOffsetBegin": 264,
+          "characterOffsetEnd": 271
+        },
+        {
+          "index": 23,
+          "word": "qualifying",
+          "originalText": "qualifying",
+          "characterOffsetBegin": 272,
+          "characterOffsetEnd": 282
+        },
+        {
+          "index": 24,
+          "word": "standard",
+          "originalText": "standard",
+          "characterOffsetBegin": 283,
+          "characterOffsetEnd": 291
+        },
+        {
+          "index": 25,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 291,
+          "characterOffsetEnd": 292
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "Ennis-Hill",
+          "originalText": "Ennis-Hill",
+          "characterOffsetBegin": 293,
+          "characterOffsetEnd": 303
+        },
+        {
+          "index": 2,
+          "word": "has",
+          "originalText": "has",
+          "characterOffsetBegin": 304,
+          "characterOffsetEnd": 307
+        },
+        {
+          "index": 3,
+          "word": "already",
+          "originalText": "already",
+          "characterOffsetBegin": 308,
+          "characterOffsetEnd": 315
+        },
+        {
+          "index": 4,
+          "word": "secured",
+          "originalText": "secured",
+          "characterOffsetBegin": 316,
+          "characterOffsetEnd": 323
+        },
+        {
+          "index": 5,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 324,
+          "characterOffsetEnd": 327
+        },
+        {
+          "index": 6,
+          "word": "place",
+          "originalText": "place",
+          "characterOffsetBegin": 328,
+          "characterOffsetEnd": 333
+        },
+        {
+          "index": 7,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 334,
+          "characterOffsetEnd": 336
+        },
+        {
+          "index": 8,
+          "word": "Rio",
+          "originalText": "Rio",
+          "characterOffsetBegin": 337,
+          "characterOffsetEnd": 340
+        },
+        {
+          "index": 9,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 340,
+          "characterOffsetEnd": 341
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "tokens": [
+        {
+          "index": 1,
+          "word": "However",
+          "originalText": "However",
+          "characterOffsetBegin": 342,
+          "characterOffsetEnd": 349
+        },
+        {
+          "index": 2,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 349,
+          "characterOffsetEnd": 350
+        },
+        {
+          "index": 3,
+          "word": "missing",
+          "originalText": "missing",
+          "characterOffsetBegin": 351,
+          "characterOffsetEnd": 358
+        },
+        {
+          "index": 4,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 359,
+          "characterOffsetEnd": 362
+        },
+        {
+          "index": 5,
+          "word": "Gotzis",
+          "originalText": "Gotzis",
+          "characterOffsetBegin": 363,
+          "characterOffsetEnd": 369
+        },
+        {
+          "index": 6,
+          "word": "meeting",
+          "originalText": "meeting",
+          "characterOffsetBegin": 370,
+          "characterOffsetEnd": 377
+        },
+        {
+          "index": 7,
+          "word": "-",
+          "originalText": "-",
+          "characterOffsetBegin": 378,
+          "characterOffsetEnd": 379
+        },
+        {
+          "index": 8,
+          "word": "one",
+          "originalText": "one",
+          "characterOffsetBegin": 380,
+          "characterOffsetEnd": 383,
+          "normalizedNER": "1.0"
+        },
+        {
+          "index": 9,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 384,
+          "characterOffsetEnd": 386
+        },
+        {
+          "index": 10,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 387,
+          "characterOffsetEnd": 390
+        },
+        {
+          "index": 11,
+          "word": "most",
+          "originalText": "most",
+          "characterOffsetBegin": 391,
+          "characterOffsetEnd": 395
+        },
+        {
+          "index": 12,
+          "word": "prestigious",
+          "originalText": "prestigious",
+          "characterOffsetBegin": 396,
+          "characterOffsetEnd": 407
+        },
+        {
+          "index": 13,
+          "word": "on",
+          "originalText": "on",
+          "characterOffsetBegin": 408,
+          "characterOffsetEnd": 410
+        },
+        {
+          "index": 14,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 411,
+          "characterOffsetEnd": 414
+        },
+        {
+          "index": 15,
+          "word": "heptathlon",
+          "originalText": "heptathlon",
+          "characterOffsetBegin": 415,
+          "characterOffsetEnd": 425
+        },
+        {
+          "index": 16,
+          "word": "calendar",
+          "originalText": "calendar",
+          "characterOffsetBegin": 426,
+          "characterOffsetEnd": 434
+        },
+        {
+          "index": 17,
+          "word": "-",
+          "originalText": "-",
+          "characterOffsetBegin": 435,
+          "characterOffsetEnd": 436
+        },
+        {
+          "index": 18,
+          "word": "denies",
+          "originalText": "denies",
+          "characterOffsetBegin": 437,
+          "characterOffsetEnd": 443
+        },
+        {
+          "index": 19,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 444,
+          "characterOffsetEnd": 447
+        },
+        {
+          "index": 20,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 448,
+          "characterOffsetEnd": 451
+        },
+        {
+          "index": 21,
+          "word": "chance",
+          "originalText": "chance",
+          "characterOffsetBegin": 452,
+          "characterOffsetEnd": 458
+        },
+        {
+          "index": 22,
+          "word": "to",
+          "originalText": "to",
+          "characterOffsetBegin": 459,
+          "characterOffsetEnd": 461
+        },
+        {
+          "index": 23,
+          "word": "assess",
+          "originalText": "assess",
+          "characterOffsetBegin": 462,
+          "characterOffsetEnd": 468
+        },
+        {
+          "index": 24,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 469,
+          "characterOffsetEnd": 472
+        },
+        {
+          "index": 25,
+          "word": "form",
+          "originalText": "form",
+          "characterOffsetBegin": 473,
+          "characterOffsetEnd": 477
+        },
+        {
+          "index": 26,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 477,
+          "characterOffsetEnd": 478
+        },
+        {
+          "index": 27,
+          "word": "and",
+          "originalText": "and",
+          "characterOffsetBegin": 479,
+          "characterOffsetEnd": 482
+        },
+        {
+          "index": 28,
+          "word": "that",
+          "originalText": "that",
+          "characterOffsetBegin": 483,
+          "characterOffsetEnd": 487
+        },
+        {
+          "index": 29,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 488,
+          "characterOffsetEnd": 490
+        },
+        {
+          "index": 30,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 491,
+          "characterOffsetEnd": 494
+        },
+        {
+          "index": 31,
+          "word": "rivals",
+          "originalText": "rivals",
+          "characterOffsetBegin": 495,
+          "characterOffsetEnd": 501
+        },
+        {
+          "index": 32,
+          "word": ",",
+          "originalText": ",",
+          "characterOffsetBegin": 501,
+          "characterOffsetEnd": 502
+        },
+        {
+          "index": 33,
+          "word": "before",
+          "originalText": "before",
+          "characterOffsetBegin": 503,
+          "characterOffsetEnd": 509
+        },
+        {
+          "index": 34,
+          "word": "the",
+          "originalText": "the",
+          "characterOffsetBegin": 510,
+          "characterOffsetEnd": 513
+        },
+        {
+          "index": 35,
+          "word": "defence",
+          "originalText": "defence",
+          "characterOffsetBegin": 514,
+          "characterOffsetEnd": 521
+        },
+        {
+          "index": 36,
+          "word": "of",
+          "originalText": "of",
+          "characterOffsetBegin": 522,
+          "characterOffsetEnd": 524
+        },
+        {
+          "index": 37,
+          "word": "her",
+          "originalText": "her",
+          "characterOffsetBegin": 525,
+          "characterOffsetEnd": 528
+        },
+        {
+          "index": 38,
+          "word": "Olympic",
+          "originalText": "Olympic",
+          "characterOffsetBegin": 529,
+          "characterOffsetEnd": 536
+        },
+        {
+          "index": 39,
+          "word": "title",
+          "originalText": "title",
+          "characterOffsetBegin": 537,
+          "characterOffsetEnd": 542
+        },
+        {
+          "index": 40,
+          "word": "in",
+          "originalText": "in",
+          "characterOffsetBegin": 543,
+          "characterOffsetEnd": 545
+        },
+        {
+          "index": 41,
+          "word": "August",
+          "originalText": "August",
+          "characterOffsetBegin": 546,
+          "characterOffsetEnd": 552,
+          "normalizedNER": "XXXX-08",
+          "timex": {
+            "tid": "t3",
+            "type": "DATE",
+            "value": "XXXX-08"
+          }
+        },
+        {
+          "index": 42,
+          "word": ".",
+          "originalText": ".",
+          "characterOffsetBegin": 552,
+          "characterOffsetEnd": 553
+        }
+      ]
+    }
+  ],
+  "corefs": {
+    "32": [
+      {
+        "id": 0,
+        "text": "The 30-year-old",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "UNKNOWN",
+        "animacy": "UNKNOWN",
+        "startIndex": 1,
+        "endIndex": 3,
+        "headIndex": 2,
+        "sentNum": 1,
+        "position": [
+          1,
+          1
+        ],
+        "isRepresentativeMention": true
+      },
+      {
+        "id": 3,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 16,
+        "endIndex": 17,
+        "headIndex": 16,
+        "sentNum": 1,
+        "position": [
+          1,
+          4
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 9,
+        "text": "She",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 1,
+        "endIndex": 2,
+        "headIndex": 1,
+        "sentNum": 2,
+        "position": [
+          2,
+          4
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 16,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 5,
+        "endIndex": 6,
+        "headIndex": 5,
+        "sentNum": 3,
+        "position": [
+          3,
+          4
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 23,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 19,
+        "endIndex": 20,
+        "headIndex": 19,
+        "sentNum": 4,
+        "position": [
+          4,
+          7
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 25,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 24,
+        "endIndex": 25,
+        "headIndex": 24,
+        "sentNum": 4,
+        "position": [
+          4,
+          9
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 29,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 30,
+        "endIndex": 31,
+        "headIndex": 30,
+        "sentNum": 4,
+        "position": [
+          4,
+          13
+        ],
+        "isRepresentativeMention": false
+      },
+      {
+        "id": 32,
+        "text": "her",
+        "type": "PRONOMINAL",
+        "number": "SINGULAR",
+        "gender": "FEMALE",
+        "animacy": "ANIMATE",
+        "startIndex": 37,
+        "endIndex": 38,
+        "headIndex": 37,
+        "sentNum": 4,
+        "position": [
+          4,
+          16
+        ],
+        "isRepresentativeMention": false
+      }
+    ],
+    "18": [
+      {
+        "id": 8,
+        "text": "Olympic",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "UNKNOWN",
+        "animacy": "UNKNOWN",
+        "startIndex": 22,
+        "endIndex": 23,
+        "headIndex": 22,
+        "sentNum": 2,
+        "position": [
+          2,
+          3
+        ],
+        "isRepresentativeMention": true
+      },
+      {
+        "id": 18,
+        "text": "Olympic",
+        "type": "PROPER",
+        "number": "SINGULAR",
+        "gender": "UNKNOWN",
+        "animacy": "UNKNOWN",
+        "startIndex": 38,
+        "endIndex": 39,
+        "headIndex": 38,
+        "sentNum": 4,
+        "position": [
+          4,
+          2
+        ],
+        "isRepresentativeMention": false
+      }
+    ]
+  },
+  "doc_id": "36230928",
+  "paragraph": {
+    "endSentIndex": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

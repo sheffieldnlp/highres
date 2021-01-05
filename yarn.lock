@@ -1741,12 +1741,12 @@ browserslist@^4.0.0:
     electron-to-chromium "^1.3.62"
     node-releases "^1.0.0-alpha.11"
 
-buefy@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.7.0.tgz#9c040bfa7ed7495de9ffc932434205249c8149b0"
-  integrity sha512-1SA7x6GimoJPYGJurNj7LfWdBl86zEd8g+ff6sm8yMkkDcn9P8UbAOIW7QRY3yR4V7Gde8ml7OZvvmgNQMGKbg==
+buefy@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/buefy/-/buefy-0.7.2.tgz#966b540b75d10dd0aba4d4921f0670430d6e5518"
+  integrity sha512-5nj7mJeJE81Ai86Zx1YwADugTJcH3w+iY6WDKiMqDohxXWDSE1Mxzfvn5SJqYb4ofc45lU8yTSTYpOMaZCpR/A==
   dependencies:
-    bulma "0.7.1"
+    bulma "0.7.2"
 
 buffer-from@^1.0.0:
   version "1.1.1"
@@ -1787,10 +1787,10 @@ bulma-slider@^2.0.0:
   resolved "https://registry.yarnpkg.com/bulma-slider/-/bulma-slider-2.0.0.tgz#0be9b016228b62b8189891e67eafbf5aba846699"
   integrity sha512-lXKMA/U43Fi1UnMkVYdNuEu0cGLo4JSWFUcnEyzNXkdpmDFic+d8H9oiaRoLbPiuGTC5SNoHMCP24T5544gnlQ==
 
-bulma@0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.1.tgz#73c2e3b2930c90cc272029cbd19918b493fca486"
-  integrity sha512-wRSO2LXB+qI9Pyz2id+uZr4quz5aftSN7Ay1ysr1+krzVp3utD+Ci4CeKuZdrYGc800t65b7heXBL6qw2Wo/lQ==
+bulma@0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.2.tgz#8e944377b74c7926558830d38d8e19eaf49f5fb6"
+  integrity sha512-6JHEu8U/1xsyOst/El5ImLcZIiE2JFXgvrz8GGWbnDLwTNRPJzdAM0aoUM1Ns0avALcVb6KZz9NhzmU53dGDcQ==
 
 bytes@3.0.0:
   version "3.0.0"

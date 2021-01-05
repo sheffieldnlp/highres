@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "buefy": "^0.7.0",
+    "buefy": "^0.7.2",
     "bulma-slider": "^2.0.0",
     "randomcolor": "^0.5.3",
     "vue": "^2.5.17",
